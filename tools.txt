@@ -1,2 +1,2 @@
-Just to ensure we have modified the file.
+To test Stassh. Just to ensure we have modified the file.
 To test the fetch command
