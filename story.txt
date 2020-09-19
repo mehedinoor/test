@@ -1,3 +1,0 @@
-This is the first sentence.
-Another sentence.
-3rd from Github remote.
